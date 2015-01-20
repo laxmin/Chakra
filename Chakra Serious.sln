@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{581633EB-B896-402F-8E60-36F3DA191C85}") = "Chakra Serious", "Chakra Serious\Chakra Serious.lsxtproj", "{E3AD653E-F76B-425A-A5F5-3D269279DAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chakra Serious.Server", "Chakra Serious\Chakra Serious.Server\Chakra Serious.Server.csproj", "{F321AACD-5EF1-4C20-A094-1B82E107F358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chakra Serious.DesktopClient", "Chakra Serious\Chakra Serious.DesktopClient\Chakra Serious.DesktopClient.csproj", "{20559DAA-A05C-40EA-B778-E9BEF1354CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3AD653E-F76B-425A-A5F5-3D269279DAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3AD653E-F76B-425A-A5F5-3D269279DAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3AD653E-F76B-425A-A5F5-3D269279DAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3AD653E-F76B-425A-A5F5-3D269279DAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F321AACD-5EF1-4C20-A094-1B82E107F358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F321AACD-5EF1-4C20-A094-1B82E107F358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F321AACD-5EF1-4C20-A094-1B82E107F358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F321AACD-5EF1-4C20-A094-1B82E107F358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20559DAA-A05C-40EA-B778-E9BEF1354CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20559DAA-A05C-40EA-B778-E9BEF1354CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20559DAA-A05C-40EA-B778-E9BEF1354CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20559DAA-A05C-40EA-B778-E9BEF1354CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
